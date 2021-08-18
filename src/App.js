@@ -1,4 +1,5 @@
 import React from 'react';
+// eslint-disable-next-line
 import data from './data';
 import { BrowserRouter, Route, Link } from 'react-router-dom';
 import './App.css';
